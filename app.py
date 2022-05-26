@@ -3,6 +3,7 @@ from flask import Flask, render_template, Response
 
 import cv2
 
+#TEST
 
 app=Flask(__name__)
 #vc = cv2.VideoCapture(0)
